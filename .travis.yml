@@ -43,6 +43,10 @@ matrix:
           app: susi-server
           on:
             branch: development
+        - provider: azure_web_apps
+          username: PCe6KdrZKMv1oU8UGkbjZ9qoYg2rzliulyWCpSkJ+rG6t90CU1S+w7u/XX/0l//H8oZGdQV1bevu7JOaz25aDNv0Qz1QTxBM/oMk2px41CA0SvLJEcFUMcnIZNZKFZhhq6tkhLvMbYz7LoQVjYzA0iHCFDm+L0wdPk4/MXNXIMUM286nFnIkozS5M6gai+hNM+lng0hEt9/GP5xc6yT7/RxMpwsu34Nlk6NBTQwVO9CWNXVo5ttg38mi3AZXSQbFVRUIysyp/yMIfJdGZ0lfLytQJh6XwBKSuK3zFS3ScKDcHjxHEI5J1HKW72f4MjgVGfVt0bX3dglfkzJH1qCQ5S/xAbQDJxlYYLkdL/jIlaN6MDL9DPpUMQoipKaHTCvXWcQRK8WF4DSpeTUQBNNwts8dttuXNjrYSKp3qwI1m2adS2eALaxVowjK6tBKVSyNaH52xTnLTP9/oUxtC9qbSoIZDbkQJdVI6ebaeAeNQHEhWlq9qEvptNJ9cHhrMVhMF+lOmaaHDYEHTgnaNnfHfnVCjy7jJTPeT8iu/Ma9Bw+2kNKcOuuu/NSnkoL5S9glzJyFgbzqFY55XFcyWNMXoYl9HqhfiHF0Yfho+I0LnOEAaqefqPHf37FyJ3jocfiyedliiy/vnJLFj2x+D6V32AU8Cjlo1Ln5tYMbcJTAlPo=
+          password: TpYMUO3cath8fUneyoQBTsKxRf5S7yPKuPM6cJSwrrKRSMrK9VtSsB5e2HtZFhQJErTOpqY+06kPNK/f4G8TuQthDjlS+2rwvCcPd4UTmD+3DxMMUOlTfQZbXaRQ2jiu8fjkDtQjRT95XFPlot9kZh/vTpg6Au2HC4s1NaJ3OWoc7EuSdlvXWKaooJYkj5INSQpnYMRTO9/zJieQBbGludFQo3jYSlWXTi2VdGgD19qwzkh0jiVQhbukDWaB26XZ2pUn3Ho0ucMwm1aV8i7eYbfzeL3zpiKFDfEwmgVoq3aj17PPt6lCHhCkRda+zALnCOxePAx0JaoZ2SBMkkNoelJ4oub166tLYawe+6HUONeOkSgrJ/vRG385EzfRjJh10VYp2pLRZayZJumpxe2VD88zeGNx9GUTQpFtMkl4rIK+EfLZ0EHpu5RpoDsv5O82/Z/iZ+3Uv959gI/7c/pSbOIfyJK/9tq1Et7LVjbIRFlXOV5at5LXGdEvunDqDdmTlHMOZbe9HXljHfYliwBcBiexYbqwYDzmpW5mt4zAvvTW4fZA1PX/N0O5zeeQ+b8wgPfuPRZiCLcVHx4SL8CBgTRiJ1zgvQNpMTuEpcs7rIMTkWD9D5xHp7LfKpXXXAg3UMUh69CUYa8e3VN3y5JK93JpMA1Bz03hPU7Zhi771Dk=
+          site: susigci
 
     # Codecov
     - language: generic
