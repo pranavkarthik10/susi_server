@@ -49,7 +49,6 @@ matrix:
           password: TpYMUO3cath8fUneyoQBTsKxRf5S7yPKuPM6cJSwrrKRSMrK9VtSsB5e2HtZFhQJErTOpqY+06kPNK/f4G8TuQthDjlS+2rwvCcPd4UTmD+3DxMMUOlTfQZbXaRQ2jiu8fjkDtQjRT95XFPlot9kZh/vTpg6Au2HC4s1NaJ3OWoc7EuSdlvXWKaooJYkj5INSQpnYMRTO9/zJieQBbGludFQo3jYSlWXTi2VdGgD19qwzkh0jiVQhbukDWaB26XZ2pUn3Ho0ucMwm1aV8i7eYbfzeL3zpiKFDfEwmgVoq3aj17PPt6lCHhCkRda+zALnCOxePAx0JaoZ2SBMkkNoelJ4oub166tLYawe+6HUONeOkSgrJ/vRG385EzfRjJh10VYp2pLRZayZJumpxe2VD88zeGNx9GUTQpFtMkl4rIK+EfLZ0EHpu5RpoDsv5O82/Z/iZ+3Uv959gI/7c/pSbOIfyJK/9tq1Et7LVjbIRFlXOV5at5LXGdEvunDqDdmTlHMOZbe9HXljHfYliwBcBiexYbqwYDzmpW5mt4zAvvTW4fZA1PX/N0O5zeeQ+b8wgPfuPRZiCLcVHx4SL8CBgTRiJ1zgvQNpMTuEpcs7rIMTkWD9D5xHp7LfKpXXXAg3UMUh69CUYa8e3VN3y5JK93JpMA1Bz03hPU7Zhi771Dk=
           site: susigci
           on:
-            tags: true
             all_branches: true
 
     # Codecov
